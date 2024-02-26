@@ -1,0 +1,15 @@
+# Chap App
+Um chat básico funcionando em tempo real com Node.js, Express.js e Socket.IO
+
+# Dependências
+Socket.IO
+Nodejs
+
+# Backlog
+
+- Criar o servidor "server.js"
+- Configurar o Express.js e Socket.IO
+- Criar o cliente
+- Adicionar autenticação de usuário
+- Adicionar armazenamento de mensagens em um banco de dados
+- Adicionar múltiplas salas de chat
