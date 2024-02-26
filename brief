@@ -4,6 +4,9 @@ Um chat básico funcionando em tempo real com Node.js, Express.js e Socket.IO
 # Dependências
 Socket.IO
 Nodejs
+npm install express socket.io
+npm install socket.io-client
+npm install --save-dev mocha chai
 
 # Backlog
 
